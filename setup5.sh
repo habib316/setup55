@@ -43,11 +43,11 @@ rm -rf $HOME/payload6.zip
 rm -rf $HOME/payload7.zip
 rm -rf $HOME/../usr/bin/payload.sh
 rm -rf $HOME/../usr/bin/payload
-rm -rf $HOME/../usr/bin/payload6
+rm -rf $HOME/../usr/bin/payload6l
 rm -rf $HOME/../usr/bin/payload7
 rm -rf $HOME/../usr/bin/setup5.sh
 clear
-echo -e "$c ali.max = $g https://www.facebook.com/ali.max.796774  "
+echo -e "$c ali.max = $g https://www.facebook.com/ali.h27.796774  "
 echo -e "$g"
 read -p "               -------(entar)------"
 clear
